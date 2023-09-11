@@ -1,12 +1,73 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&family=Oswald:wght@200;400;600&family=Poppins:wght@300;400&family=Roboto&family=Rubik+Iso&display=swap');
 body{
   font-family: 'Poppins', sans-serif;
+  background-color: #FBE4E4;
 }
 h3{
-  margin-top: 200px;
+  margin-top: 75px;
   text-align: center;
+  font-size: 30px;
 }
 .Table{
-  margin: 100px;
-}
   
+  border-collapse: collapse;
+  
+  border-spacing: 2px;
+  margin: auto;
+  margin-top: 25px;
+  box-shadow: 2px;
+  width: 75%;
+  height: 375px;
+  box-shadow: inset;
+
+  
+
+}
+*{
+  margin: 0;
+  padding: 0;
+} 
+.head{
+  background-color: #D63231;
+ 
+}
+{
+  background-color: #FFFFFF;
+}
+.fade{
+  background-color: #FFFFFF;
+}
+.fade1{
+  background-color: rgb(243,243,243);
+}
+table,tr,th{
+  
+  
+  justify-content: space-evenly;
+}
+td{
+  text-align: center;
+}
+p{
+  font-size: 15px;
+  font-weight: 700;
+}
+.kalvi{
+  margin-left: 150px;
+}
+#pfp{
+  width: 40px;
+  height: 30px;
+  margin-left: 510px;
+  position: relative;
+  top: -25px;
+
+}
+.text{
+  position: absolute;
+  left: 960px;
+  top: 22px;
+  color: #D63231;
+
+  
+}

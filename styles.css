@@ -2,6 +2,7 @@
 body{
   font-family: 'Poppins', sans-serif;
   background-color: #FBE4E4;
+  padding: 7px;
 }
 h3{
   margin-top: 75px;
@@ -14,7 +15,7 @@ h3{
   
   border-spacing: 2px;
   margin: auto;
-  margin-top: 25px;
+  /* margin-top: 25px; */
   box-shadow: 2px;
   width: 75%;
   height: 375px;
@@ -31,9 +32,7 @@ h3{
   background-color: #D63231;
  
 }
-{
-  background-color: #FFFFFF;
-}
+
 .fade{
   background-color: #FFFFFF;
 }
@@ -48,19 +47,22 @@ table,tr,th{
 td{
   text-align: center;
 }
+.heading{
+  color: #FFFFFF;
+}
 p{
   font-size: 15px;
   font-weight: 700;
 }
 .kalvi{
   margin-left: 150px;
+  width: 150px;
 }
 #pfp{
-  width: 40px;
+  /* width: 40px; */
   height: 30px;
-  margin-left: 510px;
-  position: relative;
-  top: -25px;
+  margin-left: 610px;
+
 
 }
 .text{
